@@ -17,7 +17,10 @@
 
 ## Screenshots
 
-*(You can add screenshots here after running the app.)*
+
+
+https://github.com/user-attachments/assets/2beccb2e-1d27-4d35-aaa0-7518b983da5d
+
 
 ---
 
