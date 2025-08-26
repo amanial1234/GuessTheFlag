@@ -1,7 +1,3 @@
-Here’s a clean and professional **README** you can use for your `GuessTheFlag` app:
-
----
-
 # GuessTheFlag
 
 **GuessTheFlag** is a simple and fun iOS game built with SwiftUI where players try to correctly identify the flag of a given country. It’s a great way to practice SwiftUI, state management, and user interactions.
